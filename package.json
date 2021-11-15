@@ -1,6 +1,6 @@
 {
-  "name": "ra-thunk-api-redux",
-  "homepage": "https://barsich.github.io/ra-thunk-api-redux/",
+  "name": "ra-observable-search",
+  "homepage": "https://barsich.github.io/ra-observable-search/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
